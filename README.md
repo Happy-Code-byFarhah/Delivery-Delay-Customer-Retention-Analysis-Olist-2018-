@@ -73,8 +73,8 @@ This project investigates the hypothesis that delivery delays are strongly assoc
 
 ---
 
-## 📂 Project Files
-(Add your GitHub folder link here)
-
-## 📊 Dataset
-(Add your dataset link here)
+📂 **[Project File English](https://github.com/Happy-Code-byFarhah/Delivery-Delay-Customer-Retention-Analysis-Olist-2018-/blob/main/Olist%202018.ipynb)**
+📂 **[Project File Indonesian](https://github.com/Happy-Code-byFarhah/Delivery-Delay-Customer-Retention-Analysis-Olist-2018-/blob/main/Olist%202018.docx)** 
+📊 **[Dataset](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)**
+**[Dashboard](https://public.tableau.com/views/Olist2018/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
+**[PPT](https://github.com/Happy-Code-byFarhah/Delivery-Delay-Customer-Retention-Analysis-Olist-2018-/blob/main/Olist%202018.pdf)**
